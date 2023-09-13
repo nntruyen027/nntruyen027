@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Ngọc Truyện</h1>
-<h3 align="center">I'm a passionate software engineer from Can Tho, Vietnam, exploring diverse realms of technology, driven by a thirst for practical projects.</h3>
+<h3 align="center">I'm a software engineer from Can Tho, Vietnam, exploring diverse realms of technology, driven by a thirst for practical projects.</h3>
 
 - 🌱 I’m currently learning **IoT, AI, Spring boot, ExpressJS**
 
