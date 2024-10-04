@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Ngọc Truyện</h1>
 <h3 align="center">I'm a software engineer from Can Tho, Vietnam, exploring diverse realms of technology, driven by a thirst for practical projects.</h3>
 
-- 🌱 I’m currently learning **Django, Spring boot, ReactJs, ExpressJS**
+- 🌱 I’m currently learning **Django, Spring boot, ReactJs, ExpressJs**
 
 - 📫 How to reach me **nntruyen027@gmail.com**
 
